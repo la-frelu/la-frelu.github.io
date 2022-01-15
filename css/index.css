@@ -31,7 +31,7 @@ div.welcome {
     background-color: black;
 }
 
-div.welcome p {
+div.welcome p.wel {
     margin-left: 20px;
     margin-right: 20px;
 }
