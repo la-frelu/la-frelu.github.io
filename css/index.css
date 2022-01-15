@@ -22,6 +22,7 @@ div.title {
 
 div.title h1 {
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* welcome */
@@ -32,6 +33,7 @@ div.welcome {
 
 div.welcome p {
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* nav bar */
