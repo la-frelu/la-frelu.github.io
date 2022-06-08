@@ -27,7 +27,7 @@ div.title h1 {
 /* notice */
 div.notice {
     line-height: 40px;
-    background-color: black;
+    background-image: url(../assets/font.png);
 }
 
 div.notice p {

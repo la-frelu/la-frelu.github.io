@@ -26,9 +26,20 @@ div.title h1 {
 }
 
 /* welcome */
+div.welcome2 {
+    line-height: 40px;
+    background-color:black;
+}
+
+div.welcome2 p.wel {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-justify: auto;
+    text-align-last: auto;
+}
 div.welcome {
     line-height: 40px;
-    background-color: black;
+    background-image: url(../assets/font.png);
 }
 
 div.welcome p.wel {
